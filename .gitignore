@@ -5,6 +5,7 @@
 *.so
 *.dylib
 0gtest
+main
 
 # Test binary
 *.test
